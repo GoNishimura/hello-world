@@ -1,2 +1,3 @@
 # hello-world
 my first repository... may include my random thoughts and ideas...
+朝聞道夕死可俟
